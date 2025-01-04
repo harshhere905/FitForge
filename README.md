@@ -4,7 +4,7 @@ Welcome to FitForge! FitForge is a web application designed to help users track 
 
 ## Live Demo
 
-You can check out the live version of FitForge [here](let-fitforge.netlify.app).
+You can check out the live version of FitForge [here](https://let-fitforge.netlify.app/).
 
 ## Technologies Used
 
